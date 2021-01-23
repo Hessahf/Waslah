@@ -1,0 +1,215 @@
+.sh{
+ 
+  margin-left: 260px;
+}
+.headd{
+	background-color:F7F6F6;	
+	padding-top:0%;
+	margin-top:-0.75%;
+	margin-left:-0.75%;
+	margin-right:-0.75%;	
+}
+
+.ccc{
+width:100%;
+border-top: 5px dotted #c0dbf9;	
+margin-top:0.1%;
+}
+
+.hr2 {
+	content: '';
+	display: block;
+	margin-top: 2px;
+	border-top: 1px dotted #8c8b8b;
+	border-bottom:1px dotted #da9f5a;
+	margin-top:-8%;
+}
+
+
+ body {
+        background-color: #E7EEF9;
+        font-family: 'Ubuntu', sans-serif;
+    }
+  
+  
+ .foot .aboutـus-f1{
+background-color: #c0dbf9;	
+width:40%;
+border-radius:20%;
+text-align:center;
+margin-left:720px;	
+margin-bottom:10px;
+
+}
+.foot .aboutـus-f2{
+background-color: #e4ba89;;	
+width:40%;
+border-radius:20%;
+text-align:center;	
+margin-right:700px;	
+margin-top:-100px;
+padding-left:5px;
+}
+
+.foot{
+background-color:#F7F6F6;
+padding-top:15px;
+margin-bottom:-0.5px;
+	
+}
+
+.foot .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius:50%;
+}
+		
+.foot .fa:hover {
+    opacity: 0.7;
+}
+
+.foot .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.foot .fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.foot .fa-instagram {
+  background: #125688;
+  color: white;
+}
+.foot .footer_botton{
+	font-size:12px;	
+	
+}		
+		
+.hr3{
+	border-top: 5px dotted #e4ba89;	
+}
+  
+  
+.main3 {
+  background-color: #FFFFFF;
+  width: 800px;
+  height: 400px;
+  margin: 7em auto;
+  border-radius: 1.5em;
+  box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+ 
+  
+}
+
+    .main {
+        background-color: #FFFFFF;
+        width: 800px;
+        height: 850px;
+        margin: 7em auto;
+        border-radius: 1.5em;
+        box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+       
+        
+    }
+	    form.form1 {
+        padding-top: 40px;
+    }
+	
+	    .sign {
+        padding-top: 40px;
+        color: #e4ba89;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: bold;
+        font-size: 23px;
+    }
+	
+	
+	    .un {
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(136, 126, 126, 0.04);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+    }
+    
+
+    .un:focus {
+        border: 2px solid rgba(0, 0, 0, 0.18) !important;
+        
+    }
+        .submit {
+      cursor: pointer;
+        border-radius: 5em;
+        color: #fff;
+        background: linear-gradient(to right, #da9f5a, #e4ba89);
+        border: 0;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-family: 'Ubuntu', sans-serif;
+        margin-left: 40%;
+        font-size: 13px;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+    }
+	
+	
+
+    
+
+   
+
+    
+
+    
+    .type {
+        cursor: pointer;
+        width: 150px;
+        height: 150px;
+          border-radius: 5em;
+          color: black;
+          
+          background: linear-gradient(to right, #da9f5a, #e4ba89);
+          border: 0;
+          padding-left: 40px;
+          padding-right: 40px;
+          padding-bottom: 10px;
+          padding-top: 10px;
+          font-family: 'Ubuntu', sans-serif;
+          margin-left: 36%;
+          font-size: 16px;
+          box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+      }
+      
+      .type:hover{
+        background : #c0dbf9;
+     }
+   
+    
+    @media (max-width: 600px) {
+        .main {
+            border-radius: 0px;
+        }
+		
+
+		
+		
+		
